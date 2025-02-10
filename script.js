@@ -9,5 +9,5 @@ noButton.addEventListener("click", function() {
 });
 
 yesButton.addEventListener("click", function() {
-    alert("Yay! You said YES! ❤🥳");
+    alert("mujhe ptaa hi thaaa! ❤🥳");
 });
